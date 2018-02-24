@@ -3,6 +3,7 @@
   "version": "4.0.3",
   "description": "Hapi plugin for the Pino logger ",
   "main": "index.js",
+  "types": "index.d.js",
   "scripts": {
     "coverage": "lab test.js -c",
     "coveralls": "lab test.js -r lcov | coveralls",
